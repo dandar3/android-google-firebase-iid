@@ -13,7 +13,7 @@ See [GCM Play Services](https://developers.google.com/cloud-messaging/android/cl
 **Requires:**
 - `Android 2.3 (API 10) SDK Platform`
 - [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement)
-- [dandar3/android-google-firebase-common](https://github.com/dandar3/android-google-playfirebase-common)
+- [dandar3/android-google-firebase-common](https://github.com/dandar3/android-google-firebase-common)
 
 **References:**
 - https://developers.google.com/android/guides/releases
