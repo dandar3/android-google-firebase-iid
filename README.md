@@ -6,7 +6,9 @@ Eclipse library project based on:<br/>
 **Notes:**<br/>
 - **_Tag &lt;category&gt; attribute name has invalid character '$'._**<br/>
   **_Tag &lt;permission&gt; attribute name has invalid character '$'._**<br/>
-  **_Tag &lt;uses-permission&gt; attribute name has invalid character '$'._** compiler errors require you to change `${applicationId}` with your Java app package in `AndroidManifest.xml`. See [GCM Play Services](https://developers.google.com/cloud-messaging/android/client#manifest) documentation for more details.
+  **_Tag &lt;uses-permission&gt; attribute name has invalid character '$'._**<br/>
+compiler errors require you to change `${applicationId}` with your Java app package in `AndroidManifest.xml`.<br/>
+See [GCM Play Services](https://developers.google.com/cloud-messaging/android/client#manifest) documentation for more details.
 
 **Requires:**
 - `Android 2.3 (API 10) SDK Platform`
