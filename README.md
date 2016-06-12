@@ -1,7 +1,7 @@
 # android-google-firebase-iid
 
 Eclipse library project based on:<br/>
-`ANDROID_SDK/extras/google/m2repository/com/google/firebase/firebase-iid/9.0.1/firebase-iid-9.0.1.aar`
+`ANDROID_SDK/extras/google/m2repository/com/google/firebase/firebase-iid/9.0.2/firebase-iid-9.0.2.aar`
 
 **Notes:**
 - **_Tag &lt;category&gt; attribute name has invalid character '$'._**<br/>
@@ -20,4 +20,4 @@ See [GCM Play Services](https://developers.google.com/cloud-messaging/android/cl
 - https://android-developers.blogspot.com/2016/05/google-play-services-90-updates.html
 
 **SVN checkout:**
-- https://github.com/dandar3/android-google-firebase-iid/tags/9.0.1
+- https://github.com/dandar3/android-google-firebase-iid/tags/9.0.2
