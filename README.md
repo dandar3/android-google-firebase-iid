@@ -11,7 +11,7 @@ compiler errors require you to change `${applicationId}` with your Java app pack
 See [GCM Play Services](https://developers.google.com/cloud-messaging/android/client#manifest) documentation for more details.
 
 **Requires:**
-- `Android 7.0 (API 24) SDK Platform`
+- `Android 7.1 (API 25) SDK Platform`
 - [dandar3/android-google-firebase-common](https://github.com/dandar3/android-google-firebase-common/tree/9.6.1)
 - [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/9.6.1)
 
