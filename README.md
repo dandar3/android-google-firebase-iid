@@ -17,8 +17,8 @@ See [GCM Play Services](https://developers.google.com/cloud-messaging/android/cl
 - [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tree/11.6.2)
 
 **References:**
-- https://firebase.google.com/support/release-notes/android#20170918%22
-- https://developers.google.com/android/guides/releases#september_2017_-_version_1140
+- https://firebase.google.com/support/release-notes/android#20171127
+- https://developers.google.com/android/guides/releases#november_27_2017_-_version_1162
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>

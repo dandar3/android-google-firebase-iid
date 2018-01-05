@@ -14,13 +14,14 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.google.firebase.iid"
-    android:versionCode="1140"
-    android:versionName="11.4.0">
+    android:versionCode="1162"
+    android:versionName="11.6.2">
     <uses-sdk android:minSdkVersion="14"/>
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <!-- Required by older versions of Google Play services to create IID tokens -->
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
 
     <permission android:name="${applicationId}.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
@@ -35,10 +36,6 @@
                 <category android:name="${applicationId}"/>
             </intent-filter>
         </receiver>
-
-        <!-- Internal (not exported) receiver used by the app to start its own exported services
-             without risk of being spoofed. -->
-        <receiver android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver" android:exported="false"/>
 
         <!-- FirebaseInstanceIdService performs security checks at runtime,
              no need for explicit permissions despite exported="true" -->
