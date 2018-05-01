@@ -8,5 +8,7 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/google-firebase-common"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-basement"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-tasks"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-measurement-base"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-stats"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
