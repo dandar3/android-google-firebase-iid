@@ -14,5 +14,7 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/google-firebase-common"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-firebase-components"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-firebase-iid-interop"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/google-firebase-installations"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/google-firebase-installations-interop"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
