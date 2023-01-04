@@ -9,6 +9,7 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-core"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-legacy-support-core-utils"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-basement"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-cloud-messaging"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-stats"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-tasks"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-firebase-common"/>
